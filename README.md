@@ -1,7 +1,7 @@
 # Hi, I'm Diego D. (He/Him)
 
 ## About Me
-- **Education:** B.S. in Mathematics & Computer Science, UCSD
+- **Education:** B.S. in Mathematics - Computer Science, UCSD
 - **Interests:** Data compression, algorithm optimization, efficient data storage
 - **Current Work:** Personal projects on advanced compression techniques
 
